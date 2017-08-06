@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pret.png</file>
+        <file>palette.png</file>
+        <file>backFINAL.png</file>
+        <file>iconeAppli.png</file>
+        <file>connexion.png</file>
+    </qresource>
+</RCC>
